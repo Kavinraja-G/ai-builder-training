@@ -12,7 +12,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'ragbot=src.main:main',
+            'ragbot=main:main',
         ],
     },
 )
