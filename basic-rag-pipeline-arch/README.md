@@ -2,7 +2,7 @@
 
 This repository outlines the architecture for a **Retrieval-Augmented Generation (RAG)** based assistant to help any engineers query internal documentation.
 
-![Architecture Diagram](./rag-pipeline.png)
+![Architecture Diagram](./rag-pipeline-arch.png)
 
 ---
 
