@@ -9,6 +9,28 @@ A modular, CLI-driven AI research assistant for querying internal documents and 
 - **Google Docs integration** via MCP server (for insurance/company docs)
 - CLI for querying, adding docs, and system info
 
+## Overview
+Below are some example screenshots of the agent in action:
+
+<p align="center">
+  <img src="screenshots/rag_output.png" alt="RAG Output" width="500"/>
+  <br/>
+  <em>RAG Output: Retrieval-Augmented Generation over internal docs</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/web_search_output.png" alt="Web Search Output" width="500"/>
+  <br/>
+  <em>Web Search Output: Real-time web search results using Tavily</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/mcp_gdocs_output.png" alt="Google Docs Output" width="500"/>
+  <br/>
+  <em>Google Docs Output: Company policy retrieval via MCP integration</em>
+</p>
+
+
 ## Quick Start
 
 ```bash

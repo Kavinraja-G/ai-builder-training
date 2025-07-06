@@ -141,7 +141,7 @@ class ResearchAgent:
             tools=tools,
             llm=self.llm,
             agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
-            verbose=True,
+            verbose=False,
             handle_parsing_errors=True
         )
 

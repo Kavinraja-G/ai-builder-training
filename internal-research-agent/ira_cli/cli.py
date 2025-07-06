@@ -42,7 +42,7 @@ def clean_response(response):
 def cli(verbose: bool, log_file: Optional[str]):
     """Internal Research Agent - AI-powered document research and analysis."""
     # Set up logging - quiet by default, verbose only when requested
-    log_level = "DEBUG" if verbose else "INFO"
+    log_level = "DEBUG" if verbose else "ERROR"
     setup_logger(level=log_level, log_file=log_file)
 
     if verbose:
