@@ -1,0 +1,5 @@
+Company X HR Policy - AI & Data Compliance
+
+- Employees must ensure all AI systems follow GDPR and HIPAA compliance when handling customer data.
+- Any models deployed must undergo security review and documentation.
+- Employee training is mandatory for AI data handling.
